@@ -1,6 +1,7 @@
 ## TODO app in flask using Flask-SQLAlchemy
 
 [![Build Status](https://travis-ci.org/JayateeB/todo-api.svg?branch=master)](https://travis-ci.org/JayateeB/todo-api)
+[![codecov](https://codecov.io/gh/JayateeB/todo-api/branch/master/graph/badge.svg)](https://codecov.io/gh/JayateeB/todo-api)
 ## Setup
 
 ### Setup flask environment
