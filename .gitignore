@@ -1,5 +1,5 @@
 .idea
-env/
+flask/
 *.db
 .coverage
 ### Python ###
